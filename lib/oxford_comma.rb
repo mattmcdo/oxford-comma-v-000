@@ -3,4 +3,5 @@ string = array.join(", ")
 new_array = []
 new_array << string
 new_array.join
+new.array.insert 5, "and"
 end
