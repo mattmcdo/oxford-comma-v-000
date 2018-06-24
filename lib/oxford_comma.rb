@@ -1,5 +1,5 @@
 def oxford_comma(array)
-string = array.join(", ")
-new_array = []
-new_array << string
+if array.length == 1
+  "#{array[0]}"
+  
 end
