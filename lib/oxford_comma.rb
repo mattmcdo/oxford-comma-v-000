@@ -2,5 +2,5 @@ def oxford_comma(array)
 string = array.join(", ")
 new_array = []
 new_array << string
-new_array.join("and ")
+new_array.insert 32, "and "
 end
