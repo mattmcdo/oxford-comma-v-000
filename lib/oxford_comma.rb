@@ -4,3 +4,4 @@ if array.length == 1
 elsif array.length == 2
   "and #{array[0]}"
 end
+end
