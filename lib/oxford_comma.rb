@@ -1,7 +1,5 @@
 def oxford_comma(array)
-if array = [" "]
+array.join
 array.join(" and ")
-elsif array = [" ", " "]
-
-
+array.join
 end
